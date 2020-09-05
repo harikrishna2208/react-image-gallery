@@ -1,0 +1,63 @@
+.card {
+  padding-right: 0.5%;
+  padding-left: 0.5%;
+  padding-bottom: 0.5%;
+  padding-top: 0.5%;
+  margin: 10px;
+  border-radius: 10px;
+  overflow: hidden;
+  max-width: 22.4%;
+  max-height: 20%;
+  float: left;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+img {
+  border-radius: 1%;
+  width: 300px;
+  height: 300px;
+}
+
+li {
+  list-style: none;
+}
+ul {
+  padding-inline-start: 5px;
+}
+.Author {
+  margin: 3px;
+  color: purple;
+  font: bolder;
+}
+.listDetails {
+  padding-top: 0px;
+}
+.loading {
+  font: 300;
+  align-content: center;
+  margin-top: 30%;
+  margin-left: 40%;
+}
+
+.SearchBar {
+  max-width: 100%;
+  overflow: hidden;
+  margin-right: 10%;
+  margin-left: 30%;
+  margin-bottom: 4%;
+  margin-top: 5%;
+}
+.Inputbtn {
+  padding: 10px 80px;
+  border-radius: 5px;
+  border: solid;
+  font-size: large;
+}
+.mr-auto {
+  padding: 10px 10px 10px;
+  border-radius: 10px;
+  border: solid;
+  font-size: larger;
+  background-color: dodgerblue;
+  margin: 5px;
+}
